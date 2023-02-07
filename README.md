@@ -11,4 +11,4 @@ Tus tareas consisten en:
 Profesor del departamento de Informática de la Universidad de Jaén.
 * **Correo**: emc00073@red.ujaen.es
 * **GitHub**: https://github.com/vrivas/
-* **Trello**: https://trello.com/vrivas_ujaen_es
+* **Trello**: https://trello.com/b/aKW9BNPx/pr%C3%A1ctica-1-da
